@@ -1,8 +1,5 @@
 # Anti-Sleep-Alaram-System
 
-## Arduino Nano
-![Arduino Nano](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/574c1a88-5d09-40ad-8b55-7aecd48ef8ec)
-
 ## Aim
 The primary objective of our product is to address the issue of accidents that are caused by fatigue, which can have disastrous consequences. Long hours of work, particularly during night shifts, can lead to exhaustion and sleepiness, putting drivers, doctors, police officers, and construction workers at risk. Our device is designed to prevent such accidents by alerting the individual when signs of fatigue are detected, allowing them to take necessary breaks and rest periods.
 
@@ -46,27 +43,30 @@ The system is versatile and applicable in various settings such as transportatio
  
 1. Arduino Nano
 Arduino Nano is a small, compatible open-source electronic development board based on an 8-bit AVR microcontroller.
+
 ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/72eb8264-760d-4d1d-9ff2-dd37786a9e0f)
 
-2. Eye Blink Sensor
-The eye blink sensor is an infrared sensor that illuminates the eye with infrared light and monitors the changes in the reflected light. 
+3. Eye Blink Sensor
+The eye blink sensor is an infrared sensor that illuminates the eye with infrared light and monitors the changes in the reflected light.
+
  ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/85d08dbe-a9ef-4554-b8e1-172aaabc6974)
 
-
-3. Passive Buzzer
+4. Passive Buzzer
 A passive buzzer has a built-in oscillating source, so it will make sounds when electrified.
+
 ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/97d4ae80-d6b5-494b-a92a-cda60d0f7bf6)
 
-4. Coin Vibration Motor
+5. Coin Vibration Motor
 A coin vibration motor is a typical ERM (eccentric rotating mass) actuator. It provides customers with haptic feedback
 
 ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/f540eebf-f711-4e77-804f-69c723528a21)
 
 5. SPST Switch
-SPST switch stands for “Single Pole Single Throw” which includes a single input and a single output. 
+SPST switch stands for “Single Pole Single Throw” which includes a single input and a single output.
+
 ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/5171ee5a-db55-49e4-9c30-28cf59c39199)
 
-6. Jumper Wires
+7. Jumper Wires
 Jumper wires are simply wires that have connector pins at each end, allowing them to be used to connect two points to each other without soldering.
  
 ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/49e516bb-d7a2-4f61-8026-33b7440853eb)
@@ -74,16 +74,13 @@ Jumper wires are simply wires that have connector pins at each end, allowing the
 7. 9V Battery
 It is an electric battery that supplies a nominal voltage of 9 Volts
  
-
- ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/e424f797-d93f-4509-8959-9de5e749d00e)
+![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/e424f797-d93f-4509-8959-9de5e749d00e)
 
  
 ## Pinout Diagram
  
- 
 ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/1cc06cf9-43c7-4cab-b65d-14a25c8b929e)
 
- 
  
 ## Conclusion
 
@@ -95,7 +92,7 @@ As technology continues to evolve, we anticipate even more sophisticated anti-sl
 
 In essence, implementing anti-sleep alarm systems is a proactive and preventive measure that demonstrates a strong commitment to prioritizing safety and well-being in critical environments.
 
-
+## Working Model
 ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/3f92be64-f202-4079-8c92-a2dd26df9dcb)
 
 ![image](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/e5433445-56db-458a-be25-69e4d19d134f)

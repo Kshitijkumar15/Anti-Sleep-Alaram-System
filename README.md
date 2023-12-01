@@ -1,4 +1,4 @@
-<img width="2910" alt="image" src="https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/2f0d20ae-524d-4a5b-92c5-db295fb84549"># Anti-Sleep-Alaram-System
+# Anti-Sleep-Alaram-System
 
 ![Arduino Nano](https://github.com/Kshitijkumar15/Anti-Sleep-Alaram-System/assets/66892634/574c1a88-5d09-40ad-8b55-7aecd48ef8ec)
 
